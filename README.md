@@ -7,4 +7,5 @@
 admin  123456  
 guest  123456 (is_can_login字段为0，账号无法登录)  
 man    123456  
+第三行验证码现在默认是etu4
   
